@@ -11,7 +11,8 @@ for an arbitrary list of strings.
 # Your name here, and any other people/sources who helped.
 # Give credit where credit is due.
 __author__ = """Anie Cross with help from instructor demo recordings, Google search,
-realpython.com, docs.python.org"""
+docs.python.org, alexouden.com/post/2015-defaultdict-in-python,
+realpython.com"""
 
 import sys
 from collections import defaultdict

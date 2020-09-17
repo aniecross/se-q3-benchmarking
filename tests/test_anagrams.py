@@ -1,9 +1,10 @@
 """
-Test Suite for anagrams module. 
+Test Suite for anagrams module.
 Students should only modify only the `test_long` method.
 """
-__author__ = "madarp"   """Anie Cross with help from instructor demo recordings,
-Google search, realpython.com, docs.python.org"""
+__author__ = "madarp"   """Anie Cross with help from instructor demo recordings, Google search,
+docs.python.org, alexouden.com/post/2015-defaultdict-in-python,
+realpython.com"""
 
 import sys
 import unittest
