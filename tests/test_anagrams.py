@@ -2,7 +2,8 @@
 Test Suite for anagrams module. 
 Students should only modify only the `test_long` method.
 """
-__author__ = "madarp"
+__author__ = "madarp"   """Anie Cross with help from instructor demo recordings,
+Google search, realpython.com, docs.python.org"""
 
 import sys
 import unittest
@@ -57,7 +58,6 @@ class TestAnagrams(unittest.TestCase):
     #
     # Students:  Comment out the line below to enable the long test.
     #
-    @unittest.skip("Remove this line once short test passes")
     def test_long(self):
         """Check find_anagrams() with long word list."""
         with open("words/long.txt") as f:
